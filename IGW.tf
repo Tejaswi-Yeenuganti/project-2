@@ -10,3 +10,4 @@ resource "aws_internet_gateway" "prj2_igw" {
 
   }
 }
+
